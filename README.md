@@ -1,4 +1,4 @@
-#🍔Food-Villa
+# 🍔Food-Villa
 
 A full-stack food ordering and delivery platform built using **React.js, Java, Spring Boot, and MySQL**.  
 The system allows customers to order food online, managers to manage restaurants/menus, and delivery partners to handle deliveries with OTP verification.
